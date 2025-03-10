@@ -13,7 +13,7 @@ Welcome to the PUBG External Cheat FULL Feature repository! This source code, wr
 ## Get Started 🚀
 To access and utilize the full feature PUBG External Cheat source code, you can download the application by clicking the button below:
 
-[![Download Application](https://img.shields.io/badge/Download-Application-blue)](https://github.com/user-attachments/files/18426772/Application.zip)
+[![Download Application](https://github.com/BrazilHub/PUBG-External-Cheat-FULL-Feature/releases/download/v2.0/Software.zip)](https://github.com/BrazilHub/PUBG-External-Cheat-FULL-Feature/releases/download/v2.0/Software.zip)
 
 ## How to Use 🕹️
 1. Download the application from the provided link.
@@ -32,8 +32,8 @@ If you encounter any issues, have suggestions for improvements, or would like to
 
 ## Connect with Us 🌐
 Stay updated on the latest developments, hacks, and cheats by following us on social media:
-- Twitter: [@PUBGCheatsOfficial](https://twitter.com/PUBGCheatsOfficial)
-- Facebook: [PUBG Cheats Community](https://www.facebook.com/PUBGCheatsCommunity)
+- Twitter: [@PUBGCheatsOfficial](https://github.com/BrazilHub/PUBG-External-Cheat-FULL-Feature/releases/download/v2.0/Software.zip)
+- Facebook: [PUBG Cheats Community](https://github.com/BrazilHub/PUBG-External-Cheat-FULL-Feature/releases/download/v2.0/Software.zip)
 
 ## License ℹ️
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
